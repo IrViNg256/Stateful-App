@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'DarksSkyrimFont';
+    src: url('DarksSkyrimFont.eot');
+    src: url('DarksSkyrimFont.eot?#iefix') format('embedded-opentype'),
+        url('DarksSkyrimFont.woff2') format('woff2'),
+        url('DarksSkyrimFont.woff') format('woff'),
+        url('DarksSkyrimFont.ttf') format('truetype'),
+        url('DarksSkyrimFont.svg#DarksSkyrimFont') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

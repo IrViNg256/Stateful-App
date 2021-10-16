@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'DarksSkyrimFont';
+  src: url('DarksSkyrimFont.eot');
+  src: url('DarksSkyrimFont.eot?#iefix') format('embedded-opentype'),
+       url('DarksSkyrimFont.woff') format('woff'),
+       url('DarksSkyrimFont.ttf') format('truetype'),
+       url('DarksSkyrimFont.svg#DarksSkyrimFont') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+  background-color: black;
+  color: grey;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'DarksSkyrimFont', serif;
+}
+
+h2 {
+  font-family: 'DarksSkyrimFont', serif;
+}
+
+p, input, button {
+  font-family: "Times New Roman", serif;
+}
+
+button, input {
+  background-color: silver;
+}
